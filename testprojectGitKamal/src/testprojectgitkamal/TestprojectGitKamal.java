@@ -16,6 +16,12 @@ public class TestprojectGitKamal {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        TestprojectGitKamal obj1=new TestprojectGitKamal();
+        obj1.getString();
+    }
+    public String getString()
+    {
+    return "kamal";
     }
     
 }
